@@ -16,7 +16,7 @@
 #import "GPUImageUIElement.h"
 #import "GPUImageBuffer.h"
 
-// 过滤
+// OpenGL计算得出帧缓存
 #import "GPUImageFilter.h"
 #import "GPUImageTwoInputFilter.h"
 
